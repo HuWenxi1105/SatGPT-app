@@ -2,11 +2,6 @@
 
 SatGPT is a flood event analysis platform that combines a React map UI, a CopilotKit runtime, a FastAPI backend, LangGraph, Google Earth Engine, and OpenAI integrations.
 
-## Change Notes
-
-- [Flood annual history update and PR handoff / 洪水年度数据更新与 PR 交接说明（2026-10-08）](FLOOD_HISTORY_AND_PR_HANDOFF.md): JRC coverage through 2024, retained hotspot logic, changed files, validation, and contribution workflow.
-- [Administrative boundary search and analysis scope fixes / 行政边界搜索与分析范围修正（2026-10-08）](BOUNDARY_CHANGES.md): motivation, before/after behavior, changed files, Bangkok data provenance, validation, and known limits.
-
 ## Demo
 
 https://github.com/user-attachments/assets/61a1a09f-c380-4bd8-9f7d-e1dfb38748d1
